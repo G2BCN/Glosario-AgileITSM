@@ -26,6 +26,7 @@
 | Blue-green deployment pattern         | Patrón de despliegue Blue-Green                                              | Patró de desplegament Blue-Green                                       |
 | Branching strategy                    | Estrategia de ramificación                                                   | Estratègia de ramificació                                              |
 | Brownfield                            | Brownfield                                                                   | Brownfield                                                             |
+| Bug                                   | Bug / Error                                                                  | Bug / Error                                                            |
 | Build                                 | Build                                                                        | Build                                                                  |
 | Build-time                            | Build-time                                                                   | Build-time                                                             |
 | Burn-down chart                       | Diagrama de quemado / Gráfico de tarea pendiente                             | Diagrama de cremat / Gràfic de tasca pendent                           |
@@ -44,7 +45,7 @@
 | Code review forms                     | Formulario de revisión de código                                             | Formulari de revisió de codi                                           |
 | Collaboration                         | Colaboración                                                                 | Col·laboració                                                          |
 | Commit (stage)                        | Commit (etapa)                                                               | Commit (etapa)                                                         |
-| Commit code                           | Commit del codigo                                                            | Commit del codi                                                        |
+| Commit code                           | Commit del código                                                            | Commit del codi                                                        |
 | Commitment                            | Compromiso / Comprometerse                                                   | Compromís / Comprometre                                                |
 | Communication                         | Comunicación                                                                 | Comunicació                                                            |
 | Communication styles                  | Estilos de comunicación                                                      | Estils de comunicació                                                  |
@@ -103,6 +104,7 @@
 | Improvement Community (IC)            | Comunidad de mejora                                                          | Comunitat de millora                                                   |
 | Incident Management                   | Gestión de incidentes                                                        | Gestió d'incidents                                                     |
 | Increment                             | Incremento                                                                   | Increment                                                              |
+| Indicator                             | Indicador                                                                    | Indicador                                                              |
 | Information radiator                  | Radiador de información                                                      | Radiador d'informació                                                  |
 | Infrastructure as code                | Infraestructura como código                                                  | Infraestructura com a codi                                             |
 | Infrastructure Automation             | Automatización de Infraestructuras                                           | Automatització d'insfraestructures                                     |
@@ -168,7 +170,8 @@
 | Poka Yoke                             | Poka Yoke                                                                    | Poka Yoke                                                              |
 | Pragmatist                            | Pragmático                                                                   | Pragmàtic                                                              |
 | Priority                              | Prioridad                                                                    | Prioritat                                                              |
-| Process Master                        | Process Master                                                               | Process Master                                                         |
+| Process Owner                         | Propietario del Proceso                                                      | Propietari del Procès                                                  |
+| Process Manager                       | Gestor del Proceso                                                           | Gestor del Procès                                                      |
 | Product Backlog                       | Pila de producto                                                             | Pila de producte                                                       |
 | Product Backlog                       | Pila de producto                                                             | Pila de producte                                                       |
 | Product Backlog Item (PBI)            | Elemento de la pila de producto                                              | Element de la pila de producte                                         |
@@ -229,9 +232,9 @@
 | Standard operations                   | Operaciones estándares                                                       | Operacions estàndards                                                  |
 | Statement of value                    | Declaración de valor                                                         | Declaració de valor                                                    |
 | Static analysis                       | Análisis estático                                                            | Anàlisi estàtic                                                        |
-| Story                                 | Historia                                                                     | Historia                                                               |
-| Story point                           | Punto de historia                                                            | Punto de historia                                                      |
-| Swarming                              | Enjambrazón                                                                  | eixamenament                                                           |
+| Story                                 | Historia                                                                     | Història                                                               |
+| Story point                           | Punto de historia                                                            | Punt d'història                                                      |
+| Swarming                              | Enjambrazón                                                                  | Eixamenament                                                           |
 | System of Engagement (SoE)            | System of Engagement (SoE)                                                   | System of Engagement (SoE)                                             |
 | System of Record (SoR)                | System of Record (SoR)                                                       | System of Record (SoR)                                                 |
 | System tests                          | Pruebas del sistema                                                          | Proves del sistema                                                     |
@@ -271,4 +274,4 @@
 | WIP (Work in Progress / Process)      | WIP (Trabajo en curso / Trabajo en Proceso)                                  | WIP (Treball en curs / Treball en procès)                              |
 | WIP Limit                             | Limitación del WiP                                                           | Limitació del WiP                                                      |
 | Workspace                             | Espacio de trabajo                                                           | Espai de treball                                                       |
-| Yokoten                               | Yokoten                                                                      | Yokote                                                                 |
+| Yokoten                               | Yokoten                                                                      | Yokoten                                                                |
