@@ -18,7 +18,7 @@
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
 | Automation                            | Automatización                                                               | Automatització                                                         |
 | Backlog                               | Backlog / Lista de tareas                                                    | Backlog / Llista de tasques                                            |
-| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camin Erroni / Prova Erronea                                           |
+| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camí Erroni / Prova Erronea                                           |
 | Binary file                           | Fichero binario                                                              | Fitxer binari                                                          |
 | Blameless                             | Libre de culpa / sin culpa                                                   | Lliure de culpa / sense culpa                                          |
 | Blameless post mortem                 | Blameless post mortem                                                        | Blameless post mortem                                                  |
