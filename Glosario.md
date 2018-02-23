@@ -1,9 +1,5 @@
 | Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
-| Deployment Pipeline                   | pipeline / Flujo de Despliegue                                               | pipeline / Flux de desplegament                                                        |
-| Ideal testing pyramid                 | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
-| Vendor lock-in                        | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
 | A/B testing                           | Pruebas A/B / Testeo A/B / Testing A/B                                       | Proves A/B / Testeig A/B / Testing A/B                                 |
 | Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Aceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
@@ -17,6 +13,7 @@
 | Antifragility                         | Antifragilidad                                                               | Antifragilitat                                                         |
 | Application Deployment                | Despliegue de Aplicaciones                                                   | Desplegament d'aplicacions                                             |
 | Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefacts                                                     |
+| Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
 | Automated testing                     | Pruebas automatizadas / Testeo automatizado / Testing automatizado           | Proves automatitzades / Testeig automatitzat / Testing automatitzat    |
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
 | Automation                            | Automatización                                                               | Automatització                                                         |
@@ -102,6 +99,7 @@
 | Human error                           | Error humano                                                                 | Error humà                                                             |
 | I-shaped, T-shaped, E-shaped          | En forma de I, en forma de T, en forma de E                                  | En forma de I, en forma de T, en forma de E                            |
 | Ideal hours/ Ideal days               | Horas ideales / dias ideales                                                 | Hores ideals / dies ideals                                             |
+| Ideal testing pyramid                 | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
 | Improvement Community (IC)            | Comunidad de mejora                                                          | Comunitat de millora                                                   |
 | Incident Management                   | Gestión de incidentes                                                        | Gestió d'incidents                                                     |
 | Increment                             | Incremento                                                                   | Increment                                                              |
@@ -262,6 +260,7 @@
 | Value Stream Mapping (VSM)            | Mapa del Flujo de Valor (VSM)                                                | Mapa del fluxe Valor (VSM)                                             |
 | Velocity                              | Velocidad                                                                    | Velocitat                                                              |
 | Velocity of the team                  | Velocidad del equipo                                                         | Velocitat de l'equip                                                   |
+| Vendor lock-in                        | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
 | Version Control                       | Control de Versiones                                                         | Control de versions                                                    |
 | Virtualization                        | Virtualización                                                               | Virtualització                                                         |
 | Virtualized environment               | Entorno virtualizado                                                         | Entorn virtualitzat                                                    |
