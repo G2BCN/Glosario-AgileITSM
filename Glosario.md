@@ -18,7 +18,7 @@
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
 | Automation                            | Automatización                                                               | Automatització                                                         |
 | Backlog                               | Backlog / Lista de tareas                                                    | Backlog / Llista de tasques                                            |
-| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camin Erroni / Prova Erronea                                           |
+| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camí Erroni / Prova Erronea                                           |
 | Binary file                           | Fichero binario                                                              | Fitxer binari                                                          |
 | Blameless                             | Libre de culpa / sin culpa                                                   | Lliure de culpa / sense culpa                                          |
 | Blameless post mortem                 | Blameless post mortem                                                        | Blameless post mortem                                                  |
@@ -49,7 +49,7 @@
 | Commitment                            | Compromiso / Comprometerse                                                   | Compromís / Comprometre                                                |
 | Communication                         | Comunicación                                                                 | Comunicació                                                            |
 | Communication styles                  | Estilos de comunicación                                                      | Estils de comunicació                                                  |
-| Compact                               | Acuerdo                                                                      | Compacte / Comprimit                                                   |
+| Compact                               | Acuerdo / Pacto                                                              | Acord / Pacte                                                          |
 | Compliance checking                   | Verificación de cumplimiento / Pruebas de cumplimiento                       | Verificació de cumpliment / Proves de cumpliment                       |
 | Compliancy officer                    | Encargado / Responsable del cumlimiento                                      | Encarregat / Responsable del cumpliment                                |
 | Component (tests)                     | Test / Pruebas de componentes                                                | Test / Proves de components                                            |
@@ -66,7 +66,7 @@
 | Defect tracking                       | Seguimiento de defectos                                                      | Segiment de defectes                                                   |
 | Definition of Done (DoD)              | Definición de Hecho (DoD)                                                    | Definició de fet (DoD)                                                 |
 | Definition of Ready (DoR)             | Definición de Listo (DoR)                                                    | Definició de Preparat (DoR)                                            |
-| Dependency                            | Dependencia                                                                  | Dependencia                                                            |
+| Dependency                            | Dependencia                                                                  | Dependència                                                            |
 | Deployment Pipeline                   | Flujo de Despliegue / Pipeline de Despliegue                                 | Flux de Desplegament / Pipeline de Desplegament                        |
 | Development                           | Desarrollo                                                                   | Desenvolupament                                                        |
 | Development Team                      | Equipo de desarrollo                                                         | Equip de desenvolupament                                               |
@@ -87,7 +87,7 @@
 | Feedback                              | Feedback / Retroalimentación                                                 | Feedback / Retroalimentació                                            |
 | Feedforward                           | Feedforward / Prealimentación                                                | Feedforward / Prealimentació                                           |
 | Flow                                  | flujo                                                                        | flux                                                                   |
-| Follower                              | Segidor                                                                      | Segidor                                                                |
+| Follower                              | Seguidor                                                                     | Seguidor                                                               |
 | Forensic tools                        | Herramientas forenses                                                        | Eines forenses                                                         |
 | Functional acceptance tests           | Tests / Pruebas de aceptacion funcional                                      | Tests / Proves de aceptació funcional                                  |
 | Gantt Chart                           | Diagrama de Gantt                                                            | Diagrama de Gantt                                                      |
@@ -115,11 +115,11 @@
 | IT Service Management (ITSM)          | Gestión de servicios IT                                                      | Gestió de serveis IT                                                   |
 | Iteration                             | Iteración                                                                    | Iteració                                                               |
 | ITSM (IT Service Management)          | ITSM / Gestión de Servicios TI                                               | ITSM / Gestió de Serveis TI                                            |
-| Jidoka / Autonomation                 | Jidoka / Aunomatización                                                      | Jidoka / Autonomatització                                              |
+| Jidoka / Autonomation                 | Jidoka / Autonomatización                                                    | Jidoka / Autonomatització                                              |
 | Ji-Kotei-Kanketsu (JKK)               | Ji-Kotei-Kanketsu (JKK)                                                      | Ji-Kotei-Kanketsu (JKK)                                                |
 | Just-in-Time (JiT)                    | Just-in-time (JiT)                                                           | Just-in-time (JiT)                                                     |
 | Kanban                                | Kanban                                                                       | Kanban                                                                 |
-| Kaizen (in Lean)                      | Kaizen (en Lean)                                                             | Kaizen (en Lean)                                                       |
+| Kaizen                                | Kaizen                                                                       | Kaizen                                                                 |
 | Kaizen Blitz (or Improvement Blitz)   | Kaizen Blitz (o mejora Blitz)                                                | Kaizen Blitz (o millora Blitz)                                         |
 | Kanban                                | Kanban                                                                       | Kanban                                                                 |
 | Kata                                  | Kata                                                                         | Kata                                                                   |
@@ -130,7 +130,6 @@
 | Lean                                  | Lean                                                                         | Lean                                                                   |
 | Learning culture                      | Cultura de aprendizaje                                                       | Cultura d'aprenentatge                                                 |
 | Libraries                             | Bibliotecas / Librerias                                                      | Biblioteques / Llibreries                                              |
-| Light-weight ITSM                     | Gestion simplificada de Servicios IT                                         | Gestió simplificada de Servei IT                                       |
 | Logging levels                        | Niveles de registro                                                          | Nivels de registres                                                    |
 | Loosely coupled architecture          | Arquitectura débilmente acoplada / de acoplamiento débil                     | Arquitectura feblement acoplada / d'acoplament feble                   |
 | Manual testing                        | Testeo manual / pruebas manuales                                             | Proves manuals                                                         |
