@@ -1,18 +1,19 @@
 | Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | A/B testing                           | Pruebas A/B / Testeo A/B / Testing A/B                                       | Proves A/B / Testeig A/B / Testing A/B                                 |
+| Abuse(r) Story                        | Historia de Abuso / Caso de Abuso                                            | Història d'Abus                                                        |
 | Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Aceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
 | Affinity estimation                   | Estimación por afinidad                                                      | Estimació per afinitat                                                 |
 | Agile                                 | Ágil                                                                         | Àgil                                                                   |
-| Agile infrastructure                  | Infraestructura ágil                                                         | Infraestructura ágil                                                   |
+| Agile infrastructure                  | Infraestructura ágil                                                         | Infraestructura àgil                                                   |
 | Agile Manifesto                       | Manifiesto Ágil                                                              | Manifest Àgil                                                          |
 | Andon cord                            | Cuerda Andon                                                                 | Corda Andon                                                            |
 | Anomaly detection techniques          | Técnicas de detección de anomalías                                           | Tècniques de detecció d'anomalies                                      |
 | Anti-pattern                          | Anti-patrón                                                                  | Anti-patró                                                             |
 | Antifragility                         | Antifragilidad                                                               | Antifragilitat                                                         |
 | Application Deployment                | Despliegue de Aplicaciones                                                   | Desplegament d'aplicacions                                             |
-| Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefacts                                                     |
+| Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefactes                                                     |
 | Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
 | Automated testing                     | Pruebas automatizadas / Testeo automatizado / Testing automatizado           | Proves automatitzades / Testeig automatitzat / Testing automatitzat    |
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
@@ -23,14 +24,13 @@
 | Blameless                             | Libre de culpa / sin culpa                                                   | Lliure de culpa / sense culpa                                          |
 | Blameless post mortem                 | Blameless post mortem                                                        | Blameless post mortem                                                  |
 | Blue-Green deployment                 | Despliegue Blue-Green                                                        | Desplegament Blue-Green                                                |
-| Blue-green deployment pattern         | Patrón de despliegue Blue-Green                                              | Patró de desplegament Blue-Green                                       |
 | Branching strategy                    | Estrategia de ramificación                                                   | Estratègia de ramificació                                              |
 | Brownfield                            | Brownfield                                                                   | Brownfield                                                             |
 | Bug                                   | Bug / Error                                                                  | Bug / Error                                                            |
 | Build                                 | Build                                                                        | Build                                                                  |
 | Build-time                            | Build-time                                                                   | Build-time                                                             |
 | Burn-down chart                       | Diagrama de quemado / Gráfico de tarea pendiente                             | Diagrama de cremat / Gràfic de tasca pendent                           |
-| Business value                        | Valor para negocio                                                           | Valor per negoci                                                       |
+| Business value                        | Valor para el negocio                                                        | Valor per el negoci                                                    |
 | Canary release pattern                | Patrón de Despliegue con canario                                             | Patró de desplegament amb canari                                       |
 | Canary releasing                      | Despliegue con canario                                                       | Desplegament amb canari                                                |
 | Capacity testing                      | Pruebas de Capacidad                                                         | Proves de capacitat                                                    |
@@ -62,8 +62,8 @@
 | Conways law                           | Ley de Conway                                                                | Llei de Conway                                                         |
 | Customer                              | Cliente                                                                      | Client                                                                 |
 | Cycle time                            | Tiempo de ciclo                                                              | Temps de cicle                                                         |
-| Daily Scrum / stand-up                | Scrum Diario / stand-up diario                                               | Scrum diari / stand-up diario                                          |
-| Defect tracking                       | Seguimiento de defectos                                                      | Segiment de defectes                                                   |
+| Daily Scrum / stand-up                | Scrum Diario / stand-up diario                                               | Scrum diari / stand-up diari                                           |
+| Defect tracking                       | Seguimiento de defectos                                                      | Seguiment de defectes                                                   |
 | Definition of Done (DoD)              | Definición de Hecho (DoD)                                                    | Definició de fet (DoD)                                                 |
 | Definition of Ready (DoR)             | Definición de Listo (DoR)                                                    | Definició de Preparat (DoR)                                            |
 | Dependency                            | Dependencia                                                                  | Dependència                                                            |
@@ -80,13 +80,14 @@
 | Escaped defect                        | Defecto escapado                                                             | Defect escapat                                                         |
 | Estimation                            | Estimación                                                                   | Estimació                                                              |
 | Event Management                      | Gestión de eventos                                                           | Gestió de events                                                       |
+| Evil User Story                       | Historia Maliciosa / Historia de Usuario Malicioso                           | Historia Maliciosa / Historia d'Usuari Malicios                                      |
 | Exploratory testing                   | Pruebas exploratorias / Testing de exploración                               | Proves exploratòries / Testing de exploració                                         |
 | Extreme programming (XP)              | Programación extrema (XP)                                                    | Programació extrema (XP)                                               |
 | Fast feedback                         | Feedback rápido                                                              | Feedback ràpid                                                         |
 | Feature toggle                        | Conmutador de Funcionalidad / Interruptor de Funcionalidad                   | Commutador de funcionalitat / Interruptor de Funcionalitat             |
 | Feedback                              | Feedback / Retroalimentación                                                 | Feedback / Retroalimentació                                            |
 | Feedforward                           | Feedforward / Prealimentación                                                | Feedforward / Prealimentació                                           |
-| Flow                                  | flujo                                                                        | flux                                                                   |
+| Flow                                  | Flujo                                                                        | Flux                                                                   |
 | Follower                              | Seguidor                                                                     | Seguidor                                                               |
 | Forensic tools                        | Herramientas forenses                                                        | Eines forenses                                                         |
 | Functional acceptance tests           | Tests / Pruebas de aceptacion funcional                                      | Tests / Proves de aceptació funcional                                  |
