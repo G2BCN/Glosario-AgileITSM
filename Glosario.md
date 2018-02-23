@@ -1,9 +1,5 @@
-| Ingles                                | Castellano                                                                   | Catalan                                                                |
+| Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| (Artifact) repository                 | Repositorio (de artefactos)                                                  | Repositori (d'artefactes)                                              |
-| (Deployment) Pipeline                 | pipeline / Flujo                                                             | pipeline / Flux                                                        |
-| (non) Ideal testing pyramid           | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
-| (Vendor) lock-in                      | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
 | A/B testing                           | Pruebas A/B / Testeo A/B / Testing A/B                                       | Proves A/B / Testeig A/B / Testing A/B                                 |
 | Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Aceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
@@ -17,6 +13,7 @@
 | Antifragility                         | Antifragilidad                                                               | Antifragilitat                                                         |
 | Application Deployment                | Despliegue de Aplicaciones                                                   | Desplegament d'aplicacions                                             |
 | Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefacts                                                     |
+| Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
 | Automated testing                     | Pruebas automatizadas / Testeo automatizado / Testing automatizado           | Proves automatitzades / Testeig automatitzat / Testing automatitzat    |
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
 | Automation                            | Automatización                                                               | Automatització                                                         |
@@ -29,6 +26,7 @@
 | Blue-green deployment pattern         | Patrón de despliegue Blue-Green                                              | Patró de desplegament Blue-Green                                       |
 | Branching strategy                    | Estrategia de ramificación                                                   | Estratègia de ramificació                                              |
 | Brownfield                            | Brownfield                                                                   | Brownfield                                                             |
+| Bug                                   | Bug / Error                                                                  | Bug / Error                                                            |
 | Build                                 | Build                                                                        | Build                                                                  |
 | Build-time                            | Build-time                                                                   | Build-time                                                             |
 | Burn-down chart                       | Diagrama de quemado / Gráfico de tarea pendiente                             | Diagrama de cremat / Gràfic de tasca pendent                           |
@@ -47,7 +45,7 @@
 | Code review forms                     | Formulario de revisión de código                                             | Formulari de revisió de codi                                           |
 | Collaboration                         | Colaboración                                                                 | Col·laboració                                                          |
 | Commit (stage)                        | Commit (etapa)                                                               | Commit (etapa)                                                         |
-| Commit code                           | Commit del codigo                                                            | Commit del codi                                                        |
+| Commit code                           | Commit del código                                                            | Commit del codi                                                        |
 | Commitment                            | Compromiso / Comprometerse                                                   | Compromís / Comprometre                                                |
 | Communication                         | Comunicación                                                                 | Comunicació                                                            |
 | Communication styles                  | Estilos de comunicación                                                      | Estils de comunicació                                                  |
@@ -95,15 +93,18 @@
 | Gantt Chart                           | Diagrama de Gantt                                                            | Diagrama de Gantt                                                      |
 | Gatekeeper                            | Gatekeeper                                                                   | Gatekeeper                                                             |
 | Gaussian distribution                 | Distribución de Gauss                                                        | Distribució de Gauss                                                   |
+| Gemba / Genba                         | Gemba / Genba                                                                | Gemba / Genba                                                          |
 | Greenfield                            | Greenfield                                                                   | Greenfield                                                             |
 | Hand-off readiness review             | Revisión de preparación de la entrega                                        | Revisió de preparació del lliurament                                   |
 | Happy path                            | Camino feliz / Prueba feliz                                                  | Camí feliç / Prova feliç                                               |
 | Human error                           | Error humano                                                                 | Error humà                                                             |
 | I-shaped, T-shaped, E-shaped          | En forma de I, en forma de T, en forma de E                                  | En forma de I, en forma de T, en forma de E                            |
 | Ideal hours/ Ideal days               | Horas ideales / dias ideales                                                 | Hores ideals / dies ideals                                             |
+| Ideal testing pyramid                 | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
 | Improvement Community (IC)            | Comunidad de mejora                                                          | Comunitat de millora                                                   |
 | Incident Management                   | Gestión de incidentes                                                        | Gestió d'incidents                                                     |
 | Increment                             | Incremento                                                                   | Increment                                                              |
+| Indicator                             | Indicador                                                                    | Indicador                                                              |
 | Information radiator                  | Radiador de información                                                      | Radiador d'informació                                                  |
 | Infrastructure as code                | Infraestructura como código                                                  | Infraestructura com a codi                                             |
 | Infrastructure Automation             | Automatización de Infraestructuras                                           | Automatització d'insfraestructures                                     |
@@ -114,8 +115,10 @@
 | IT Service Management (ITSM)          | Gestión de servicios IT                                                      | Gestió de serveis IT                                                   |
 | Iteration                             | Iteración                                                                    | Iteració                                                               |
 | ITSM (IT Service Management)          | ITSM / Gestión de Servicios TI                                               | ITSM / Gestió de Serveis TI                                            |
+| Jidoka / Autonomation                 | Jidoka / Aunomatización                                                      | Jidoka / Autonomatització                                              |
 | Ji-Kotei-Kanketsu (JKK)               | Ji-Kotei-Kanketsu (JKK)                                                      | Ji-Kotei-Kanketsu (JKK)                                                |
 | Just-in-Time (JiT)                    | Just-in-time (JiT)                                                           | Just-in-time (JiT)                                                     |
+| Kanban                                | Kanban                                                                       | Kanban                                                                 |
 | Kaizen (in Lean)                      | Kaizen (en Lean)                                                             | Kaizen (en Lean)                                                       |
 | Kaizen Blitz (or Improvement Blitz)   | Kaizen Blitz (o mejora Blitz)                                                | Kaizen Blitz (o millora Blitz)                                         |
 | Kanban                                | Kanban                                                                       | Kanban                                                                 |
@@ -135,6 +138,9 @@
 | Minimum Viable Product                | Mínimo Producto Viable / Producto Mínimo Viable                              | Mínim Producte Viable / Producte Mínim Viable                          |
 | Monitoring Framework                  | Marco de monitorización                                                      | Marc de monitoratge                                                    |
 | Monitoring strategy                   | Estrategia de monitorización                                                 | Estratègia de monitoratge                                              |
+| Muda                                  | Muda / Derroche                                                              | Muda / Malbaratament / Desperdici                                      |
+| Mura                                  | Mura / Variabilidad                                                          | Mura / Variabilitat                                                    |
+| Muri                                  | Muri / Sobretensión / Stress                                                 | Muri / Sobretensió                                                     |
 | Monolithic                            | Monolítico                                                                   | Monolitic                                                              |
 | Negotiation styles                    | Estilos de negociación                                                       | Estils de negociació                                                   |
 | Net Present Value (NPV)               | Valor presente neto (NPV)                                                    | Valor present net (NPV)                                                |
@@ -161,14 +167,17 @@
 | Planning onion                        | Planificación por capas                                                      | Planificació per capes                                                 |
 | Planning poker                        | Poker de planificación                                                       | Poker de planificació                                                  |
 | Post mortems                          | Post mortems                                                                 | Post mortems                                                           |
+| Poka Yoke                             | Poka Yoke                                                                    | Poka Yoke                                                              |
 | Pragmatist                            | Pragmático                                                                   | Pragmàtic                                                              |
 | Priority                              | Prioridad                                                                    | Prioritat                                                              |
-| Process Master                        | Process Master                                                               | Process Master                                                         |
+| Process Owner                         | Propietario del Proceso                                                      | Propietari del Procès                                                  |
+| Process Manager                       | Gestor del Proceso                                                           | Gestor del Procès                                                      |
 | Product Backlog                       | Pila de producto                                                             | Pila de producte                                                       |
 | Product Backlog                       | Pila de producto                                                             | Pila de producte                                                       |
 | Product Backlog Item (PBI)            | Elemento de la pila de producto                                              | Element de la pila de producte                                         |
 | Product Owner                         | Product Owner / Propietario de Producto                                      | Product Owner / Propietari de Producte                                 |
 | Project charter                       | Acta de Constitución de Proyecto                                             | Acta de constitució de projecte                                        |
+| Proxy Product Owner                   | Proxy Product Owner / Propietario de Producto Proxy                          | Propietari de Producte Proxy                                           |
 | Pull request process                  | Proceso de petición Pull                                                     | Procés de petició Pull                                                 |
 | Pull system                           | Sistema Pull                                                                 | Sistema Pull                                                           |
 | Quality Assurance (QA)                | Aseguramiento de la Calidad (QA)                                             | Assegurament de la Qualitat (QA)                                       |
@@ -204,7 +213,8 @@
 | Service Continuity                    | Continuidad del servicio                                                     | Continuitat del servei                                                 |
 | Service Deployment                    | Despliegue del Servicio                                                      | Desplegament del servei                                                |
 | Service Level Agreement (SLA)         | Acuerdo de Nivel de Servicio (SLA)                                           | Acord de Nivell de servei (SLA)                                        |
-| Service Master                        | Service Master                                                               | Service Master                                                         |
+| Service Manager                       | Gestor del Servicio                                                          | Gestor del Servei                                                      |
+| Service Owner                         | Propietario del Servicio                                                     | Propietari del Servei                                                      |
 | Shared goals                          | Metas / Objetivos compartidos                                                | Metes / Objectius compartits                                           |
 | Shared operations team (SOT)          | Equipo de operaciones compartidas (SOT)                                      | Equip d'operacions compartides (SOT)                                   |
 | Shared version control                | Control de versiones compartido                                              | Control de versions compartit                                          |
@@ -222,9 +232,9 @@
 | Standard operations                   | Operaciones estándares                                                       | Operacions estàndards                                                  |
 | Statement of value                    | Declaración de valor                                                         | Declaració de valor                                                    |
 | Static analysis                       | Análisis estático                                                            | Anàlisi estàtic                                                        |
-| Story                                 | Historia                                                                     | Historia                                                               |
-| Story point                           | Punto de historia                                                            | Punto de historia                                                      |
-| Swarming                              | Enjambrazón                                                                  | eixamenament                                                           |
+| Story                                 | Historia                                                                     | Història                                                               |
+| Story point                           | Punto de historia                                                            | Punt d'història                                                      |
+| Swarming                              | Enjambrazón                                                                  | Eixamenament                                                           |
 | System of Engagement (SoE)            | System of Engagement (SoE)                                                   | System of Engagement (SoE)                                             |
 | System of Record (SoR)                | System of Record (SoR)                                                       | System of Record (SoR)                                                 |
 | System tests                          | Pruebas del sistema                                                          | Proves del sistema                                                     |
@@ -235,6 +245,7 @@
 | Technology executives                 | Ejecutivo de tecnología                                                      | Executiu de tecnología                                                 |
 | Test Story                            | Historia de Pruebas / Historia de Testing                                    | Història de Proves / Història de Testing                               |
 | Test-Driven Development  (TDD)        | Desarrollo dirigido por pruebas (TDD)                                        | Desenvolupament dirigit per proves (TDD)                               |
+| The GEN Principle                     | El principio GEN                                                             | El principi GEN                                                        |
 | The Three Ways                        | Las tres vias                                                                | Les tres vies                                                          |
 | Theory of constraints                 | Teoría de las limitaciones                                                   | Teoria de les limitacions                                              |
 | Time-box/Time-boxing                  | Time-box/Time-boxing                                                         | Time-box/Time-boxing                                                   |
@@ -252,6 +263,7 @@
 | Value Stream Mapping (VSM)            | Mapa del Flujo de Valor (VSM)                                                | Mapa del fluxe Valor (VSM)                                             |
 | Velocity                              | Velocidad                                                                    | Velocitat                                                              |
 | Velocity of the team                  | Velocidad del equipo                                                         | Velocitat de l'equip                                                   |
+| Vendor lock-in                        | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
 | Version Control                       | Control de Versiones                                                         | Control de versions                                                    |
 | Virtualization                        | Virtualización                                                               | Virtualització                                                         |
 | Virtualized environment               | Entorno virtualizado                                                         | Entorn virtualitzat                                                    |
@@ -262,3 +274,4 @@
 | WIP (Work in Progress / Process)      | WIP (Trabajo en curso / Trabajo en Proceso)                                  | WIP (Treball en curs / Treball en procès)                              |
 | WIP Limit                             | Limitación del WiP                                                           | Limitació del WiP                                                      |
 | Workspace                             | Espacio de trabajo                                                           | Espai de treball                                                       |
+| Yokoten                               | Yokoten                                                                      | Yokoten                                                                |
