@@ -80,7 +80,7 @@
 | Escaped defect                        | Defecto escapado                                                             | Defect escapat                                                         |
 | Estimation                            | Estimación                                                                   | Estimació                                                              |
 | Event Management                      | Gestión de eventos                                                           | Gestió de events                                                       |
-| Exploratory testing                   | Pruebas / testing de exploración                                             | Proves / testing de exploració                                         |
+| Exploratory testing                   | Pruebas exploratorias / Testing de exploración                               | Proves exploratòries / Testing de exploració                                         |
 | Extreme programming (XP)              | Programación extrema (XP)                                                    | Programació extrema (XP)                                               |
 | Fast feedback                         | Feedback rápido                                                              | Feedback ràpid                                                         |
 | Feature toggle                        | Conmutador de Funcionalidad / Interruptor de Funcionalidad                   | Commutador de funcionalitat / Interruptor de Funcionalitat             |
