@@ -29,7 +29,7 @@
 | Bug                                   | Bug / Error                                                                  | Bug / Error                                                            |
 | Build                                 | Build                                                                        | Build                                                                  |
 | Build-time                            | Build-time                                                                   | Build-time                                                             |
-| Burn-down chart                       | Diagrama de quemado / Gráfico de tarea pendiente                             | Diagrama de cremat / Gràfic de tasca pendent                           |
+| Burn-down chart                       | Diagrama de quemado / Gráfico de trabajo pendiente                           | Diagrama de cremat / Gràfic de treball pendent                           |
 | Business value                        | Valor para el negocio                                                        | Valor per el negoci                                                    |
 | Canary release pattern                | Patrón de Despliegue con canario                                             | Patró de desplegament amb canari                                       |
 | Canary releasing                      | Despliegue con canario                                                       | Desplegament amb canari                                                |
@@ -186,8 +186,7 @@
 | Refactoring                           | Refactoring                                                                  | Refactoring                                                            |
 | Regression testing                    | Pruebas de regresión                                                         | Proves de regressió                                                    |
 | Release branch                        | Rama de Versión                                                              | Branca de Versió                                                       |
-| Release Burn Up                       | Release Burn Up                                                              | Release Burn Up                                                        |
-| Release Burn-Down (bar) chart         | Diagrama de quemado de la versión / Gráfico de tarea pendiente de la versión | Diagrama de cremat de la versió / Gràfic de tasca pendent de la versió |
+| Release Burn-Down (bar) chart         | Diagrama de quemado de la versión / Gráfico de trabajo pendiente de la versión | Diagrama de cremat de la versió / Gràfic de treball pendent de la versió |
 | Release Coordinator                   | Coordinador de versiones                                                     | Coordinador de versions                                                |
 | Release manager                       | Gestor de versiones                                                          | Gestor de versions                                                     |
 | Release patterns                      | Patrones de despliegue                                                       | Patrons de desplegament                                                |
