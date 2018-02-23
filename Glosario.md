@@ -212,7 +212,8 @@
 | Service Continuity                    | Continuidad del servicio                                                     | Continuitat del servei                                                 |
 | Service Deployment                    | Despliegue del Servicio                                                      | Desplegament del servei                                                |
 | Service Level Agreement (SLA)         | Acuerdo de Nivel de Servicio (SLA)                                           | Acord de Nivell de servei (SLA)                                        |
-| Service Master                        | Service Master                                                               | Service Master                                                         |
+| Service Manager                       | Gestor del Servicio                                                          | Gestor del Servei                                                      |
+| Service Owner                         | Propietario del Servicio                                                     | Propietari del Servei                                                      |
 | Shared goals                          | Metas / Objetivos compartidos                                                | Metes / Objectius compartits                                           |
 | Shared operations team (SOT)          | Equipo de operaciones compartidas (SOT)                                      | Equip d'operacions compartides (SOT)                                   |
 | Shared version control                | Control de versiones compartido                                              | Control de versions compartit                                          |
