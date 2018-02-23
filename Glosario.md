@@ -1,7 +1,7 @@
-| Ingles                                | Castellano                                                                   | Catalan                                                                |
+| Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| (Artifact) repository                 | Repositorio (de artefactos)                                                  | Repositori (d'artefactes)                                              |
-| (Deployment) Pipeline                 | pipeline / Flujo                                                             | pipeline / Flux                                                        |
+| Artifact repository                 | Repositorio de artefactos                                                  | Repositori d'artefactes                                              |
+| Deployment Pipeline                 | pipeline / Flujo de Despliegue                                                             | pipeline / Flux de desplegament                                                        |
 | (non) Ideal testing pyramid           | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
 | (Vendor) lock-in                      | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
 | A/B testing                           | Pruebas A/B / Testeo A/B / Testing A/B                                       | Proves A/B / Testeig A/B / Testing A/B                                 |
