@@ -2,8 +2,8 @@
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
 | Deployment Pipeline                   | pipeline / Flujo de Despliegue                                               | pipeline / Flux de desplegament                                                        |
-| Ideal testing pyramid           | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
-| Vendor lock-in                      | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
+| Ideal testing pyramid                 | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
+| Vendor lock-in                        | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
 | A/B testing                           | Pruebas A/B / Testeo A/B / Testing A/B                                       | Proves A/B / Testeig A/B / Testing A/B                                 |
 | Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Aceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
@@ -95,6 +95,7 @@
 | Gantt Chart                           | Diagrama de Gantt                                                            | Diagrama de Gantt                                                      |
 | Gatekeeper                            | Gatekeeper                                                                   | Gatekeeper                                                             |
 | Gaussian distribution                 | Distribución de Gauss                                                        | Distribució de Gauss                                                   |
+| Gemba / Genba                         | Gemba / Genba                                                                | Gemba / Genba                                                          |
 | Greenfield                            | Greenfield                                                                   | Greenfield                                                             |
 | Hand-off readiness review             | Revisión de preparación de la entrega                                        | Revisió de preparació del lliurament                                   |
 | Happy path                            | Camino feliz / Prueba feliz                                                  | Camí feliç / Prova feliç                                               |
@@ -117,6 +118,7 @@
 | Jidoka / Autonomation                 | Jidoka / Aunomatización                                                      | Jidoka / Autonomatització                                              |
 | Ji-Kotei-Kanketsu (JKK)               | Ji-Kotei-Kanketsu (JKK)                                                      | Ji-Kotei-Kanketsu (JKK)                                                |
 | Just-in-Time (JiT)                    | Just-in-time (JiT)                                                           | Just-in-time (JiT)                                                     |
+| Kanban                                | Kanban                                                                       | Kanban                                                                 |
 | Kaizen (in Lean)                      | Kaizen (en Lean)                                                             | Kaizen (en Lean)                                                       |
 | Kaizen Blitz (or Improvement Blitz)   | Kaizen Blitz (o mejora Blitz)                                                | Kaizen Blitz (o millora Blitz)                                         |
 | Kanban                                | Kanban                                                                       | Kanban                                                                 |
@@ -165,6 +167,7 @@
 | Planning onion                        | Planificación por capas                                                      | Planificació per capes                                                 |
 | Planning poker                        | Poker de planificación                                                       | Poker de planificació                                                  |
 | Post mortems                          | Post mortems                                                                 | Post mortems                                                           |
+| Poka Yoke                             | Poka Yoke                                                                    | Poka Yoke                                                              |
 | Pragmatist                            | Pragmático                                                                   | Pragmàtic                                                              |
 | Priority                              | Prioridad                                                                    | Prioritat                                                              |
 | Process Master                        | Process Master                                                               | Process Master                                                         |
@@ -240,6 +243,7 @@
 | Technology executives                 | Ejecutivo de tecnología                                                      | Executiu de tecnología                                                 |
 | Test Story                            | Historia de Pruebas / Historia de Testing                                    | Història de Proves / Història de Testing                               |
 | Test-Driven Development  (TDD)        | Desarrollo dirigido por pruebas (TDD)                                        | Desenvolupament dirigit per proves (TDD)                               |
+| The GEN Principle                     | El principio GEN                                                             | El principi GEN                                                        |
 | The Three Ways                        | Las tres vias                                                                | Les tres vies                                                          |
 | Theory of constraints                 | Teoría de las limitaciones                                                   | Teoria de les limitacions                                              |
 | Time-box/Time-boxing                  | Time-box/Time-boxing                                                         | Time-box/Time-boxing                                                   |
@@ -267,3 +271,4 @@
 | WIP (Work in Progress / Process)      | WIP (Trabajo en curso / Trabajo en Proceso)                                  | WIP (Treball en curs / Treball en procès)                              |
 | WIP Limit                             | Limitación del WiP                                                           | Limitació del WiP                                                      |
 | Workspace                             | Espacio de trabajo                                                           | Espai de treball                                                       |
+| Yokoten                               | Yokoten                                                                      | Yokote                                                                 |
