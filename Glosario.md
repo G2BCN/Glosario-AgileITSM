@@ -1,9 +1,9 @@
 | Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Artifact repository                 | Repositorio de artefactos                                                  | Repositori d'artefactes                                              |
-| Deployment Pipeline                 | pipeline / Flujo de Despliegue                                                             | pipeline / Flux de desplegament                                                        |
-| (non) Ideal testing pyramid           | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
-| (Vendor) lock-in                      | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
+| Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
+| Deployment Pipeline                   | pipeline / Flujo de Despliegue                                               | pipeline / Flux de desplegament                                                        |
+| Ideal testing pyramid           | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
+| Vendor lock-in                      | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
 | A/B testing                           | Pruebas A/B / Testeo A/B / Testing A/B                                       | Proves A/B / Testeig A/B / Testing A/B                                 |
 | Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Aceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
@@ -114,6 +114,7 @@
 | IT Service Management (ITSM)          | Gestión de servicios IT                                                      | Gestió de serveis IT                                                   |
 | Iteration                             | Iteración                                                                    | Iteració                                                               |
 | ITSM (IT Service Management)          | ITSM / Gestión de Servicios TI                                               | ITSM / Gestió de Serveis TI                                            |
+| Jidoka / Autonomation                 | Jidoka / Aunomatización                                                      | Jidoka / Autonomatització                                              |
 | Ji-Kotei-Kanketsu (JKK)               | Ji-Kotei-Kanketsu (JKK)                                                      | Ji-Kotei-Kanketsu (JKK)                                                |
 | Just-in-Time (JiT)                    | Just-in-time (JiT)                                                           | Just-in-time (JiT)                                                     |
 | Kaizen (in Lean)                      | Kaizen (en Lean)                                                             | Kaizen (en Lean)                                                       |
@@ -135,6 +136,9 @@
 | Minimum Viable Product                | Mínimo Producto Viable / Producto Mínimo Viable                              | Mínim Producte Viable / Producte Mínim Viable                          |
 | Monitoring Framework                  | Marco de monitorización                                                      | Marc de monitoratge                                                    |
 | Monitoring strategy                   | Estrategia de monitorización                                                 | Estratègia de monitoratge                                              |
+| Muda                                  | Muda / Derroche                                                              | Muda / Malbaratament / Desperdici                                      |
+| Mura                                  | Mura / Variabilidad                                                          | Mura / Variabilitat                                                    |
+| Muri                                  | Muri / Sobretensión / Stress                                                 | Muri / Sobretensió                                                     |
 | Monolithic                            | Monolítico                                                                   | Monolitic                                                              |
 | Negotiation styles                    | Estilos de negociación                                                       | Estils de negociació                                                   |
 | Net Present Value (NPV)               | Valor presente neto (NPV)                                                    | Valor present net (NPV)                                                |
@@ -169,6 +173,7 @@
 | Product Backlog Item (PBI)            | Elemento de la pila de producto                                              | Element de la pila de producte                                         |
 | Product Owner                         | Product Owner / Propietario de Producto                                      | Product Owner / Propietari de Producte                                 |
 | Project charter                       | Acta de Constitución de Proyecto                                             | Acta de constitució de projecte                                        |
+| Proxy Product Owner                   | Proxy Product Owner / Propietario de Producto Proxy                          | Propietari de Producte Proxy                                           |
 | Pull request process                  | Proceso de petición Pull                                                     | Procés de petició Pull                                                 |
 | Pull system                           | Sistema Pull                                                                 | Sistema Pull                                                           |
 | Quality Assurance (QA)                | Aseguramiento de la Calidad (QA)                                             | Assegurament de la Qualitat (QA)                                       |
