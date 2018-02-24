@@ -96,6 +96,7 @@
 | Gaussian distribution                 | Distribución de Gauss                                                        | Distribució de Gauss                                                   |
 | Gemba / Genba                         | Gemba / Genba                                                                | Gemba / Genba                                                          |
 | Greenfield                            | Greenfield                                                                   | Greenfield                                                             |
+| Grooming [deprecated, see Refinement] | Refinamiento                                                                 | Refinament                                                             |
 | Hand-off readiness review             | Revisión de preparación de la entrega                                        | Revisió de preparació del lliurament                                   |
 | Happy path                            | Camino feliz / Prueba feliz                                                  | Camí feliç / Prova feliç                                               |
 | Human error                           | Error humano                                                                 | Error humà                                                             |
@@ -184,6 +185,7 @@
 | Reduce batch size                     | Reducir el tamaño del batch / lote                                           | Reduir la mida del batch / lote                                        |
 | Reduce number of handoffs             | Reducir el numero de traspasos                                               | Reduir el nombre de traspassos                                         |
 | Refactoring                           | Refactoring                                                                  | Refactoring                                                            |
+| Refinement                            | Refinamiento                                                                 | Refinament                                                             |
 | Regression testing                    | Pruebas de regresión                                                         | Proves de regressió                                                    |
 | Release branch                        | Rama de Versión                                                              | Branca de Versió                                                       |
 | Release Burn-Down (bar) chart         | Diagrama de quemado de la versión / Gráfico de trabajo pendiente de la versión | Diagrama de cremat de la versió / Gràfic de treball pendent de la versió |
