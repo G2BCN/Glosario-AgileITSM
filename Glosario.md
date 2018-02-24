@@ -15,11 +15,12 @@
 | Application Deployment                | Despliegue de Aplicaciones                                                   | Desplegament d'aplicacions                                             |
 | Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefactes                                                     |
 | Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
+| Automated provisioning                | Aprovisionamiento automatizado                                               | XXXXXXXX                                                              |
 | Automated testing                     | Pruebas automatizadas / Testeo automatizado / Testing automatizado           | Proves automatitzades / Testeig automatitzat / Testing automatitzat    |
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
 | Automation                            | Automatización                                                               | Automatització                                                         |
 | Backlog                               | Backlog / Lista de tareas                                                    | Backlog / Llista de tasques                                            |
-| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camí Erroni / Prova Erronea                                           |
+| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camí Erroni / Prova Erronea                                            |
 | Binary file                           | Fichero binario                                                              | Fitxer binari                                                          |
 | Blameless                             | Libre de culpa / sin culpa                                                   | Lliure de culpa / sense culpa                                          |
 | Blameless post mortem                 | Blameless post mortem                                                        | Blameless post mortem                                                  |
@@ -29,7 +30,7 @@
 | Bug                                   | Bug / Error                                                                  | Bug / Error                                                            |
 | Build                                 | Build                                                                        | Build                                                                  |
 | Build-time                            | Build-time                                                                   | Build-time                                                             |
-| Burn-down chart                       | Diagrama de quemado / Gráfico de trabajo pendiente                           | Diagrama de cremat / Gràfic de treball pendent                           |
+| Burn-down chart                       | Diagrama de quemado / Gráfico de trabajo pendiente                           | Diagrama de cremat / Gràfic de treball pendent                         |
 | Business value                        | Valor para el negocio                                                        | Valor per el negoci                                                    |
 | Canary release pattern                | Patrón de Despliegue con canario                                             | Patró de desplegament amb canari                                       |
 | Canary releasing                      | Despliegue con canario                                                       | Desplegament amb canari                                                |
@@ -57,13 +58,14 @@
 | Containers                            | Contenedores                                                                 | Contenidors                                                            |
 | Continuous Delivery                   | Entrega Continua                                                             | Lliurament continu                                                     |
 | Continuous Deployment                 | Despliegue Continuo                                                          | Desplegament continu                                                   |
+| Continuous Improvement                | Mejora Continua                                                              | Millora continua                                                       |
 | Continuous Integration                | Integración Continua                                                         | Integració continua                                                    |
 | Continuous Monitoring                 | Monitorización Continua                                                      | Monitorització continua                                                |
 | Conways law                           | Ley de Conway                                                                | Llei de Conway                                                         |
 | Customer                              | Cliente                                                                      | Client                                                                 |
 | Cycle time                            | Tiempo de ciclo                                                              | Temps de cicle                                                         |
 | Daily Scrum / stand-up                | Scrum Diario / stand-up diario                                               | Scrum diari / stand-up diari                                           |
-| Defect tracking                       | Seguimiento de defectos                                                      | Seguiment de defectes                                                   |
+| Defect tracking                       | Seguimiento de defectos                                                      | Seguiment de defectes                                                  |
 | Definition of Done (DoD)              | Definición de Hecho (DoD)                                                    | Definició de fet (DoD)                                                 |
 | Definition of Ready (DoR)             | Definición de Listo (DoR)                                                    | Definició de Preparat (DoR)                                            |
 | Dependency                            | Dependencia                                                                  | Dependència                                                            |
@@ -169,6 +171,7 @@
 | Planning poker                        | Poker de planificación                                                       | Poker de planificació                                                  |
 | Post mortems                          | Post mortems                                                                 | Post mortems                                                           |
 | Poka Yoke                             | Poka Yoke                                                                    | Poka Yoke                                                              |
+| Potentially Shippable Product Increment | Incremento de Producto Potencialmente Entregable                           | Increment de Producte Potencialment Lliurable                          |
 | Pragmatist                            | Pragmático                                                                   | Pragmàtic                                                              |
 | Priority                              | Prioridad                                                                    | Prioritat                                                              |
 | Process Owner                         | Propietario del Proceso                                                      | Propietari del Procès                                                  |
