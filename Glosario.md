@@ -1,7 +1,7 @@
 | Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | A/B testing                           | Pruebas A/B / Testeo A/B / Testing A/B                                       | Proves A/B / Testeig A/B / Testing A/B                                 |
-| Abuse(r) Story                        | Historia de Abuso / Caso de Abuso                                            | Història d'Abus                                                        |
+| Abuse(r) Story                        | Historia de Abuso / Caso de Abuso                                            | Història d'Abús                                                        |
 | Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Aceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
 | Affinity estimation                   | Estimación por afinidad                                                      | Estimació per afinitat                                                 |
@@ -15,7 +15,7 @@
 | Application Deployment                | Despliegue de Aplicaciones                                                   | Desplegament d'aplicacions                                             |
 | Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefactes                                                     |
 | Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
-| Automated provisioning                | Aprovisionamiento automatizado                                               | XXXXXXXX                                                              |
+| Automated provisioning                | Aprovisionamiento automatizado                                               | Aprovisionament automatitzat                                          |
 | Automated testing                     | Pruebas automatizadas / Testeo automatizado / Testing automatizado           | Proves automatitzades / Testeig automatitzat / Testing automatitzat    |
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
 | Automation                            | Automatización                                                               | Automatització                                                         |
