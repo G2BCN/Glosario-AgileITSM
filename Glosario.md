@@ -1,36 +1,37 @@
 | Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | A/B testing                           | Pruebas A/B / Testeo A/B / Testing A/B                                       | Proves A/B / Testeig A/B / Testing A/B                                 |
+| Abuse(r) Story                        | Historia de Abuso / Caso de Abuso                                            | Història d'Abús                                                        |
 | Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Aceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
 | Affinity estimation                   | Estimación por afinidad                                                      | Estimació per afinitat                                                 |
 | Agile                                 | Ágil                                                                         | Àgil                                                                   |
-| Agile infrastructure                  | Infraestructura ágil                                                         | Infraestructura ágil                                                   |
+| Agile infrastructure                  | Infraestructura ágil                                                         | Infraestructura àgil                                                   |
 | Agile Manifesto                       | Manifiesto Ágil                                                              | Manifest Àgil                                                          |
 | Andon cord                            | Cuerda Andon                                                                 | Corda Andon                                                            |
 | Anomaly detection techniques          | Técnicas de detección de anomalías                                           | Tècniques de detecció d'anomalies                                      |
 | Anti-pattern                          | Anti-patrón                                                                  | Anti-patró                                                             |
 | Antifragility                         | Antifragilidad                                                               | Antifragilitat                                                         |
 | Application Deployment                | Despliegue de Aplicaciones                                                   | Desplegament d'aplicacions                                             |
-| Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefacts                                                     |
+| Artifact Management                   | Gestión de Artefactos                                                        | Gestió d'artefactes                                                     |
 | Artifact repository                   | Repositorio de artefactos                                                    | Repositori d'artefactes                                              |
+| Automated provisioning                | Aprovisionamiento automatizado                                               | Aprovisionament automatitzat                                          |
 | Automated testing                     | Pruebas automatizadas / Testeo automatizado / Testing automatizado           | Proves automatitzades / Testeig automatitzat / Testing automatitzat    |
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
 | Automation                            | Automatización                                                               | Automatització                                                         |
 | Backlog                               | Backlog / Lista de tareas                                                    | Backlog / Llista de tasques                                            |
-| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camin Erroni / Prova Erronea                                           |
+| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camí Erroni / Prova Erronea                                            |
 | Binary file                           | Fichero binario                                                              | Fitxer binari                                                          |
 | Blameless                             | Libre de culpa / sin culpa                                                   | Lliure de culpa / sense culpa                                          |
 | Blameless post mortem                 | Blameless post mortem                                                        | Blameless post mortem                                                  |
 | Blue-Green deployment                 | Despliegue Blue-Green                                                        | Desplegament Blue-Green                                                |
-| Blue-green deployment pattern         | Patrón de despliegue Blue-Green                                              | Patró de desplegament Blue-Green                                       |
 | Branching strategy                    | Estrategia de ramificación                                                   | Estratègia de ramificació                                              |
 | Brownfield                            | Brownfield                                                                   | Brownfield                                                             |
 | Bug                                   | Bug / Error                                                                  | Bug / Error                                                            |
 | Build                                 | Build                                                                        | Build                                                                  |
 | Build-time                            | Build-time                                                                   | Build-time                                                             |
-| Burn-down chart                       | Diagrama de quemado / Gráfico de tarea pendiente                             | Diagrama de cremat / Gràfic de tasca pendent                           |
-| Business value                        | Valor para negocio                                                           | Valor per negoci                                                       |
+| Burn-down chart                       | Diagrama de quemado / Gráfico de trabajo pendiente                           | Diagrama de cremat / Gràfic de treball pendent                         |
+| Business value                        | Valor para el negocio                                                        | Valor per el negoci                                                    |
 | Canary release pattern                | Patrón de Despliegue con canario                                             | Patró de desplegament amb canari                                       |
 | Canary releasing                      | Despliegue con canario                                                       | Desplegament amb canari                                                |
 | Capacity testing                      | Pruebas de Capacidad                                                         | Proves de capacitat                                                    |
@@ -49,7 +50,7 @@
 | Commitment                            | Compromiso / Comprometerse                                                   | Compromís / Comprometre                                                |
 | Communication                         | Comunicación                                                                 | Comunicació                                                            |
 | Communication styles                  | Estilos de comunicación                                                      | Estils de comunicació                                                  |
-| Compact                               | Acuerdo                                                                      | Compacte / Comprimit                                                   |
+| Compact                               | Acuerdo / Pacto                                                              | Acord / Pacte                                                          |
 | Compliance checking                   | Verificación de cumplimiento / Pruebas de cumplimiento                       | Verificació de cumpliment / Proves de cumpliment                       |
 | Compliance officer                    | Encargado / Responsable del cumplimiento                                     | Encarregat / Responsable del cumpliment                                |
 | Component (tests)                     | Test / Pruebas de componentes                                                | Test / Proves de components                                            |
@@ -57,16 +58,17 @@
 | Containers                            | Contenedores                                                                 | Contenidors                                                            |
 | Continuous Delivery                   | Entrega Continua                                                             | Lliurament continu                                                     |
 | Continuous Deployment                 | Despliegue Continuo                                                          | Desplegament continu                                                   |
+| Continuous Improvement                | Mejora Continua                                                              | Millora continua                                                       |
 | Continuous Integration                | Integración Continua                                                         | Integració continua                                                    |
 | Continuous Monitoring                 | Monitorización Continua                                                      | Monitorització continua                                                |
 | Conways law                           | Ley de Conway                                                                | Llei de Conway                                                         |
 | Customer                              | Cliente                                                                      | Client                                                                 |
 | Cycle time                            | Tiempo de ciclo                                                              | Temps de cicle                                                         |
-| Daily Scrum / stand-up                | Scrum Diario / stand-up diario                                               | Scrum diari / stand-up diario                                          |
-| Defect tracking                       | Seguimiento de defectos                                                      | Segiment de defectes                                                   |
+| Daily Scrum / stand-up                | Scrum Diario / stand-up diario                                               | Scrum diari / stand-up diari                                           |
+| Defect tracking                       | Seguimiento de defectos                                                      | Seguiment de defectes                                                  |
 | Definition of Done (DoD)              | Definición de Hecho (DoD)                                                    | Definició de fet (DoD)                                                 |
 | Definition of Ready (DoR)             | Definición de Listo (DoR)                                                    | Definició de Preparat (DoR)                                            |
-| Dependency                            | Dependencia                                                                  | Dependencia                                                            |
+| Dependency                            | Dependencia                                                                  | Dependència                                                            |
 | Deployment Pipeline                   | Flujo de Despliegue / Pipeline de Despliegue                                 | Flux de Desplegament / Pipeline de Desplegament                        |
 | Development                           | Desarrollo                                                                   | Desenvolupament                                                        |
 | Development Team                      | Equipo de desarrollo                                                         | Equip de desenvolupament                                               |
@@ -80,15 +82,15 @@
 | Escaped defect                        | Defecto escapado                                                             | Defect escapat                                                         |
 | Estimation                            | Estimación                                                                   | Estimació                                                              |
 | Event Management                      | Gestión de eventos                                                           | Gestió de events                                                       |
-| Evil User Story                       | Historia de Usuario Malicioso                                                | Història d'Usuari Maliciós                                            |
-| Exploratory testing                   | Pruebas / testing de exploración                                             | Proves / testing de exploració                                         |
+| Exploratory testing                   | Pruebas exploratorias / Testing de exploración                               | Proves exploratòries / Testing de exploració                           |
+| Evil User Story                       | Historia Maliciosa / Historia de Usuario Malicioso                           | Història Maliciosa / Història d'Usuari Maliciós                        |
 | Extreme programming (XP)              | Programación extrema (XP)                                                    | Programació extrema (XP)                                               |
 | Fast feedback                         | Feedback rápido                                                              | Feedback ràpid                                                         |
 | Feature toggle                        | Conmutador de Funcionalidad / Interruptor de Funcionalidad                   | Commutador de funcionalitat / Interruptor de Funcionalitat             |
 | Feedback                              | Feedback / Retroalimentación                                                 | Feedback / Retroalimentació                                            |
 | Feedforward                           | Feedforward / Prealimentación                                                | Feedforward / Prealimentació                                           |
-| Flow                                  | flujo                                                                        | flux                                                                   |
-| Follower                              | Segidor                                                                      | Segidor                                                                |
+| Flow                                  | Flujo                                                                        | Flux                                                                   |
+| Follower                              | Seguidor                                                                     | Seguidor                                                               |
 | Forensic tools                        | Herramientas forenses                                                        | Eines forenses                                                         |
 | Functional acceptance tests           | Tests / Pruebas de aceptacion funcional                                      | Tests / Proves de aceptació funcional                                  |
 | Gantt Chart                           | Diagrama de Gantt                                                            | Diagrama de Gantt                                                      |
@@ -96,6 +98,7 @@
 | Gaussian distribution                 | Distribución de Gauss                                                        | Distribució de Gauss                                                   |
 | Gemba / Genba                         | Gemba / Genba                                                                | Gemba / Genba                                                          |
 | Greenfield                            | Greenfield                                                                   | Greenfield                                                             |
+| Grooming [deprecated, see Refinement] | Refinamiento                                                                 | Refinament                                                             |
 | Hand-off readiness review             | Revisión de preparación de la entrega                                        | Revisió de preparació del lliurament                                   |
 | Happy path                            | Camino feliz / Prueba feliz                                                  | Camí feliç / Prova feliç                                               |
 | Human error                           | Error humano                                                                 | Error humà                                                             |
@@ -116,11 +119,11 @@
 | IT Service Management (ITSM)          | Gestión de servicios IT                                                      | Gestió de serveis IT                                                   |
 | Iteration                             | Iteración                                                                    | Iteració                                                               |
 | ITSM (IT Service Management)          | ITSM / Gestión de Servicios TI                                               | ITSM / Gestió de Serveis TI                                            |
-| Jidoka / Autonomation                 | Jidoka / Aunomatización                                                      | Jidoka / Autonomatització                                              |
+| Jidoka / Autonomation                 | Jidoka / Autonomatización                                                    | Jidoka / Autonomatització                                              |
 | Ji-Kotei-Kanketsu (JKK)               | Ji-Kotei-Kanketsu (JKK)                                                      | Ji-Kotei-Kanketsu (JKK)                                                |
 | Just-in-Time (JiT)                    | Just-in-time (JiT)                                                           | Just-in-time (JiT)                                                     |
 | Kanban                                | Kanban                                                                       | Kanban                                                                 |
-| Kaizen (in Lean)                      | Kaizen (en Lean)                                                             | Kaizen (en Lean)                                                       |
+| Kaizen                                | Kaizen                                                                       | Kaizen                                                                 |
 | Kaizen Blitz (or Improvement Blitz)   | Kaizen Blitz (o mejora Blitz)                                                | Kaizen Blitz (o millora Blitz)                                         |
 | Kanban                                | Kanban                                                                       | Kanban                                                                 |
 | Kata                                  | Kata                                                                         | Kata                                                                   |
@@ -131,7 +134,6 @@
 | Lean                                  | Lean                                                                         | Lean                                                                   |
 | Learning culture                      | Cultura de aprendizaje                                                       | Cultura d'aprenentatge                                                 |
 | Libraries                             | Bibliotecas / Librerias                                                      | Biblioteques / Llibreries                                              |
-| Light-weight ITSM                     | Gestion simplificada de Servicios IT                                         | Gestió simplificada de Servei IT                                       |
 | Logging levels                        | Niveles de registro                                                          | Nivels de registres                                                    |
 | Loosely coupled architecture          | Arquitectura débilmente acoplada / de acoplamiento débil                     | Arquitectura feblement acoplada / d'acoplament feble                   |
 | Manual testing                        | Testeo manual / pruebas manuales                                             | Proves manuals                                                         |
@@ -169,6 +171,7 @@
 | Planning poker                        | Poker de planificación                                                       | Poker de planificació                                                  |
 | Post mortems                          | Post mortems                                                                 | Post mortems                                                           |
 | Poka Yoke                             | Poka Yoke                                                                    | Poka Yoke                                                              |
+| Potentially Shippable Product Increment | Incremento de Producto Potencialmente Entregable                           | Increment de Producte Potencialment Lliurable                          |
 | Pragmatist                            | Pragmático                                                                   | Pragmàtic                                                              |
 | Priority                              | Prioridad                                                                    | Prioritat                                                              |
 | Process Owner                         | Propietario del Proceso                                                      | Propietari del Procès                                                  |
@@ -184,10 +187,10 @@
 | Reduce batch size                     | Reducir el tamaño del batch / lote                                           | Reduir la mida del batch / lote                                        |
 | Reduce number of handoffs             | Reducir el numero de traspasos                                               | Reduir el nombre de traspassos                                         |
 | Refactoring                           | Refactoring                                                                  | Refactoring                                                            |
+| Refinement                            | Refinamiento                                                                 | Refinament                                                             |
 | Regression testing                    | Pruebas de regresión                                                         | Proves de regressió                                                    |
 | Release branch                        | Rama de Versión                                                              | Branca de Versió                                                       |
-| Release Burn Up                       | Release Burn Up                                                              | Release Burn Up                                                        |
-| Release Burn-Down (bar) chart         | Diagrama de quemado de la versión / Gráfico de tarea pendiente de la versión | Diagrama de cremat de la versió / Gràfic de tasca pendent de la versió |
+| Release Burn-Down (bar) chart         | Diagrama de quemado de la versión / Gráfico de trabajo pendiente de la versión | Diagrama de cremat de la versió / Gràfic de treball pendent de la versió |
 | Release Coordinator                   | Coordinador de versiones                                                     | Coordinador de versions                                                |
 | Release manager                       | Gestor de versiones                                                          | Gestor de versions                                                     |
 | Release patterns                      | Patrones de despliegue                                                       | Patrons de desplegament                                                |
