@@ -52,7 +52,7 @@
 | Communication styles                  | Estilos de comunicación                                                      | Estils de comunicació                                                  |
 | Compact                               | Acuerdo / Pacto                                                              | Acord / Pacte                                                          |
 | Compliance checking                   | Verificación de cumplimiento / Pruebas de cumplimiento                       | Verificació de cumpliment / Proves de cumpliment                       |
-| Compliancy officer                    | Encargado / Responsable del cumlimiento                                      | Encarregat / Responsable del cumpliment                                |
+| Compliance officer                    | Encargado / Responsable del cumplimiento                                     | Encarregat / Responsable del cumpliment                                |
 | Component (tests)                     | Test / Pruebas de componentes                                                | Test / Proves de components                                            |
 | Configuration Management              | Gestión de la Configuración / Gestión de Configuraciones                     | Gestió de la Configuració / Gestió de Configuracions                   |
 | Containers                            | Contenedores                                                                 | Contenidors                                                            |
@@ -75,15 +75,15 @@
 | DevOps                                | DevOps                                                                       | DevOps                                                                 |
 | DevOps Engineer                       | Ingeniero DevOps                                                             | Enginyer DevOps                                                        |
 | Disciplined Agile                     | Disciplined Agile                                                            | Disciplined Agile                                                      |
-| Distributed Team                      | Equipo distribuido                                                           | Equip distribuit                                                       |
+| Distributed Team                      | Equipo distribuido                                                           | Equip distribuït                                                       |
 | Downwards spiral                      | Espiral descendiente                                                         | Espiral descencent                                                     |
 | Elapsed time                          | Tiempo transcurrido                                                          | Temps transcurrit                                                      |
-| Epic                                  | Epica                                                                        | Epica                                                                  |
+| Epic                                  | Épica                                                                        | Épica                                                                  |
 | Escaped defect                        | Defecto escapado                                                             | Defect escapat                                                         |
 | Estimation                            | Estimación                                                                   | Estimació                                                              |
 | Event Management                      | Gestión de eventos                                                           | Gestió de events                                                       |
-| Evil User Story                       | Historia Maliciosa / Historia de Usuario Malicioso                           | Historia Maliciosa / Historia d'Usuari Malicios                                      |
-| Exploratory testing                   | Pruebas exploratorias / Testing de exploración                               | Proves exploratòries / Testing de exploració                                         |
+| Exploratory testing                   | Pruebas exploratorias / Testing de exploración                               | Proves exploratòries / Testing de exploració                           |
+| Evil User Story                       | Historia Maliciosa / Historia de Usuario Malicioso                           | Història Maliciosa / Història d'Usuari Maliciós                        |
 | Extreme programming (XP)              | Programación extrema (XP)                                                    | Programació extrema (XP)                                               |
 | Fast feedback                         | Feedback rápido                                                              | Feedback ràpid                                                         |
 | Feature toggle                        | Conmutador de Funcionalidad / Interruptor de Funcionalidad                   | Commutador de funcionalitat / Interruptor de Funcionalitat             |
@@ -104,7 +104,7 @@
 | Human error                           | Error humano                                                                 | Error humà                                                             |
 | I-shaped, T-shaped, E-shaped          | En forma de I, en forma de T, en forma de E                                  | En forma de I, en forma de T, en forma de E                            |
 | Ideal hours/ Ideal days               | Horas ideales / dias ideales                                                 | Hores ideals / dies ideals                                             |
-| Ideal testing pyramid                 | Piramide de pruebas ideal / Piramide de testeo ideal                         | Piramide de proves ideal / Piramide de testeig ideal                   |
+| Ideal testing pyramid                 | Pirámide de pruebas ideal / Pirámide de testeo ideal                         | Piràmide de proves ideal / Piràmide de testeig ideal                   |
 | Improvement Community (IC)            | Comunidad de mejora                                                          | Comunitat de millora                                                   |
 | Incident Management                   | Gestión de incidentes                                                        | Gestió d'incidents                                                     |
 | Increment                             | Incremento                                                                   | Increment                                                              |
@@ -128,7 +128,7 @@
 | Kanban                                | Kanban                                                                       | Kanban                                                                 |
 | Kata                                  | Kata                                                                         | Kata                                                                   |
 | Latent defects                        | Defectos ocultos                                                             | Defectes ocults                                                        |
-| Lauching guidance                     | Guia de lanzamiento                                                          | Guia de llançament                                                     |
+| Lauching guidance                     | Guía de lanzamiento                                                          | Guia de llançament                                                     |
 | Launch readiness review               | Revisión de peparación de lanzamiento                                        | Revisió de preparació de llançament                                    |
 | Lead time                             | Tiempo de Entrega                                                            | Temps d'entrega                                                        |
 | Lean                                  | Lean                                                                         | Lean                                                                   |
@@ -152,7 +152,7 @@
 | Non-functional testing                | Prueba no funcional                                                          | Prova no funcional                                                     |
 | Obeya                                 | Obeya                                                                        | Obeya                                                                  |
 | One-piece-flow                        | Flujo de una pieza                                                           | Flux d'una peça                                                        |
-| Operation Story                       | Historia de Operaciones                                                      | Historia d'operacions                                                  |
+| Operation Story                       | Historia de Operaciones                                                      | Història d'operacions                                                  |
 | Operations                            | Operaciones                                                                  | Operacions                                                             |
 | Operations Team                       | Equipo de operaciones                                                        | Equip d'operacions                                                     |
 | OPS liaison                           | Referente de OPS                                                             | Referent de OPS                                                        |
@@ -176,7 +176,6 @@
 | Priority                              | Prioridad                                                                    | Prioritat                                                              |
 | Process Owner                         | Propietario del Proceso                                                      | Propietari del Procès                                                  |
 | Process Manager                       | Gestor del Proceso                                                           | Gestor del Procès                                                      |
-| Product Backlog                       | Pila de producto                                                             | Pila de producte                                                       |
 | Product Backlog                       | Pila de producto                                                             | Pila de producte                                                       |
 | Product Backlog Item (PBI)            | Elemento de la pila de producto                                              | Element de la pila de producte                                         |
 | Product Owner                         | Product Owner / Propietario de Producto                                      | Product Owner / Propietari de Producte                                 |
@@ -204,7 +203,7 @@
 | Rhythm (in Lean)                      | Ritmo (en Lean)                                                              | Ritme (en Lean)                                                        |
 | Ritual                                | Rituales / Ceremonias / Eventos                                              | Rituals / Ceremonies / Esdeveniments                                   |
 | Root Cause Analysis                   | Análisis causa raíz                                                          | Anàlisi causa arrel                                                    |
-| Run time                              | Tiempo de ejecución                                                          | temps d'execució                                                       |
+| Run time                              | Tiempo de ejecución                                                          | Temps d'execució                                                       |
 | Saboteur                              | Saboteador/a                                                                 | Sabotejador/a                                                          |
 | Sad path                              | Camino triste / Prueba triste                                                | Camí trist / Prueba Triste                                             |
 | Safety conditions                     | Condiciones de seguridad                                                     | Condicions de seguretat                                                |
@@ -244,9 +243,8 @@
 | System tests                          | Pruebas del sistema                                                          | Proves del sistema                                                     |
 | Task Board                            | Tablero de tareas                                                            | Tauler de tasques                                                      |
 | Team                                  | Equipo                                                                       | Equip                                                                  |
-| Technical debt                        | Deuda téctica                                                                | Deute tècnic                                                           |
-| Technology adaption curve             | Curva de adaptación de tecnología                                            | Corva d'adaptació de tecnologia                                        |
-| Technology executives                 | Ejecutivo de tecnología                                                      | Executiu de tecnología                                                 |
+| Technical debt                        | Deuda técnica                                                                | Deute tècnic                                                           |
+| Technology adaption curve             | Curva de adaptación a la tecnología                                          | Corva d'adaptació a la tecnologia                                        |
 | Test Story                            | Historia de Pruebas / Historia de Testing                                    | Història de Proves / Història de Testing                               |
 | Test-Driven Development  (TDD)        | Desarrollo dirigido por pruebas (TDD)                                        | Desenvolupament dirigit per proves (TDD)                               |
 | The GEN Principle                     | El principio GEN                                                             | El principi GEN                                                        |
@@ -255,7 +253,7 @@
 | Time-box/Time-boxing                  | Time-box/Time-boxing                                                         | Time-box/Time-boxing                                                   |
 | Tools                                 | Herramientas                                                                 | Eines                                                                  |
 | Toyota Kata                           | Toyota Kata                                                                  | Toyota Kata                                                            |
-| Toyota Production System (TPS)        | Sistema de Producción de Toyota (TPS)                                        | Sitema de producció de Toyota(TPS)                                     |
+| Toyota Production System (TPS)        | Sistema de Producción de Toyota (TPS)                                        | Sistema de producció de Toyota(TPS)                                     |
 | Transformation team                   | Equipo de tranformación                                                      | Equip de transformació                                                 |
 | Triangulation                         | Triangulación                                                                | Triangulació                                                           |
 | Trunk                                 | Trunk                                                                        | Trunk                                                                  |
@@ -267,7 +265,7 @@
 | Value Stream Mapping (VSM)            | Mapa del Flujo de Valor (VSM)                                                | Mapa del fluxe Valor (VSM)                                             |
 | Velocity                              | Velocidad                                                                    | Velocitat                                                              |
 | Velocity of the team                  | Velocidad del equipo                                                         | Velocitat de l'equip                                                   |
-| Vendor lock-in                        | Dependencia del proovedor                                                    | Dependencia del proveïdor                                              |
+| Vendor lock-in                        | Dependencia del proveedor                                                    | Dependencia del proveïdor                                              |
 | Version Control                       | Control de Versiones                                                         | Control de versions                                                    |
 | Virtualization                        | Virtualización                                                               | Virtualització                                                         |
 | Virtualized environment               | Entorno virtualizado                                                         | Entorn virtualitzat                                                    |
