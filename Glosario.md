@@ -148,7 +148,7 @@
 | Negotiation styles                    | Estilos de negociación                                                       | Estils de negociació                                                   |
 | Net Present Value (NPV)               | Valor presente neto (NPV)                                                    | Valor present net (NPV)                                                |
 | Niko-niko calendar                    | Calendario Niko-Niko                                                         | Calendari Niko-Niko                                                    |
-| Non-functional requirement (NFR)      | Requerimiento no funcional (NFR)                                             | Requeriment no funcional (NFR)                                         |
+| Non-functional requirement (NFR)      | Requisito no funcional (NFR)                                                 | Requisit no funcional (NFR)                                         |
 | Non-functional testing                | Prueba no funcional                                                          | Prova no funcional                                                     |
 | Obeya                                 | Obeya                                                                        | Obeya                                                                  |
 | One-piece-flow                        | Flujo de una pieza                                                           | Flux d'una peça                                                        |
