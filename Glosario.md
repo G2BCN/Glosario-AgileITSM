@@ -271,7 +271,7 @@
 | Virtualized environment               | Entorno virtualizado                                                         | Entorn virtualitzat                                                    |
 | Visualisation                         | Visualización                                                                | Visualització                                                          |
 | Waste                                 | Desperdicio / Derroche / Ineficiencia                                        | Desaprofitament / Malbaratament / Ineficiència                         |
-| Waste reduction                       | Reducción del desperdicio                                                    | Reducció del desperdici                                                |
+| Waste reduction                       | Reducción de las ineficiencias                                               | Reducció de les ineficiències                                          |
 | Waterfall                             | Waterfall / en cascada                                                       | Waterfall / en cascada                                                 |
 | WIP (Work in Progress / Process)      | WIP (Trabajo en curso / Trabajo en Proceso)                                  | WIP (Treball en curs / Treball en procès)                              |
 | WIP Limit                             | Limitación del WiP                                                           | Limitació del WiP                                                      |
