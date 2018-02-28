@@ -275,5 +275,5 @@
 | Waterfall                             | Waterfall / en cascada                                                       | Waterfall / en cascada                                                 |
 | WIP (Work in Progress / Process)      | WIP (Trabajo en curso / Trabajo en Proceso)                                  | WIP (Treball en curs / Treball en procès)                              |
 | WIP Limit                             | Limitación del WiP                                                           | Limitació del WiP                                                      |
-| Workspace                             | Espacio de trabajo                                                           | Espai de treball                                                       |
+| Workspace                             | Espacio de trabajo / Entorno de trabajo                                      | Espai de treball / Entorn de treball                                   |
 | Yokoten                               | Yokoten                                                                      | Yokoten                                                                |
