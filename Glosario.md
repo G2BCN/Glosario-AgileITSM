@@ -141,7 +141,7 @@
 | Minimum Viable Product                | Mínimo Producto Viable / Producto Mínimo Viable                              | Mínim Producte Viable / Producte Mínim Viable                          |
 | Monitoring Framework                  | Marco de monitorización                                                      | Marc de monitoratge                                                    |
 | Monitoring strategy                   | Estrategia de monitorización                                                 | Estratègia de monitoratge                                              |
-| Muda                                  | Muda / Derroche                                                              | Muda / Malbaratament / Desperdici                                      |
+| Muda                                  | Muda / Ineficiencia / Derroche                                               | Muda / Malbaratament / Desperdici / Ineficiència                       |
 | Mura                                  | Mura / Variabilidad                                                          | Mura / Variabilitat                                                    |
 | Muri                                  | Muri / Sobretensión / Stress                                                 | Muri / Sobretensió                                                     |
 | Monolithic                            | Monolítico                                                                   | Monolitic                                                              |
