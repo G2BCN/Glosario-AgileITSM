@@ -1,6 +1,6 @@
 | Inglés                                | Castellano                                                                   | Catalán                                                                |
 |---------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| A/B testing                           | Pruebas A/B / Testeo A/B / Testing A/B                                       | Proves A/B / Testeig A/B / Testing A/B                                 |
+| A/B testing                           | Pruebas A/B / Realización de Pruebas A/B                                     | Proves A/B / Realització de Proves A/B                                 |
 | Abuse(r) Story                        | Historia de Abuso / Caso de Abuso                                            | Història d'Abús                                                        |
 | Acceptance Tests                      | Pruebas de Aceptación                                                        | Proves d'Aceptació                                                     |
 | Affinity                              | Afinidad                                                                     | Afinitat                                                               |
