@@ -236,7 +236,7 @@
 | Statement of value                    | Declaración de valor                                                         | Declaració de valor                                                    |
 | Static analysis                       | Análisis estático                                                            | Anàlisi estàtic                                                        |
 | Story                                 | Historia                                                                     | Història                                                               |
-| Story point                           | Punto de historia                                                            | Punt d'història                                                      |
+| Story point                           | Punto de historia                                                            | Punt d'història                                                        |
 | Swarming                              | Enjambrazón                                                                  | Eixamenament                                                           |
 | System of Engagement (SoE)            | System of Engagement (SoE)                                                   | System of Engagement (SoE)                                             |
 | System of Record (SoR)                | System of Record (SoR)                                                       | System of Record (SoR)                                                 |
@@ -244,16 +244,16 @@
 | Task Board                            | Tablero de tareas                                                            | Tauler de tasques                                                      |
 | Team                                  | Equipo                                                                       | Equip                                                                  |
 | Technical debt                        | Deuda técnica                                                                | Deute tècnic                                                           |
-| Technology adaption curve             | Curva de adaptación a la tecnología                                          | Corva d'adaptació a la tecnologia                                        |
+| Technology adaption curve             | Curva de adaptación a la tecnología                                          | Corva d'adaptació a la tecnologia                                      |
 | Test Story                            | Historia de Pruebas / Historia de Testing                                    | Història de Proves / Història de Testing                               |
 | Test-Driven Development  (TDD)        | Desarrollo dirigido por pruebas (TDD)                                        | Desenvolupament dirigit per proves (TDD)                               |
 | The GEN Principle                     | El principio GEN                                                             | El principi GEN                                                        |
 | The Three Ways                        | Las tres vias                                                                | Les tres vies                                                          |
-| Theory of constraints                 | Teoría de las limitaciones                                                   | Teoria de les limitacions                                              |
+| Theory of constraints                 | Teoría de las limitaciones / Teoría de las restricciones                     | Teoria de les limitacions / Teoria de les restriccions                 |
 | Time-box/Time-boxing                  | Time-box/Time-boxing                                                         | Time-box/Time-boxing                                                   |
 | Tools                                 | Herramientas                                                                 | Eines                                                                  |
 | Toyota Kata                           | Toyota Kata                                                                  | Toyota Kata                                                            |
-| Toyota Production System (TPS)        | Sistema de Producción de Toyota (TPS)                                        | Sistema de producció de Toyota(TPS)                                     |
+| Toyota Production System (TPS)        | Sistema de Producción de Toyota (TPS)                                        | Sistema de producció de Toyota(TPS)                                    |
 | Transformation team                   | Equipo de tranformación                                                      | Equip de transformació                                                 |
 | Triangulation                         | Triangulación                                                                | Triangulació                                                           |
 | Trunk                                 | Trunk                                                                        | Trunk                                                                  |
