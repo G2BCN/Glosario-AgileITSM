@@ -85,7 +85,7 @@
 | Exploratory testing                   | Pruebas exploratorias / Testing de exploración                               | Proves exploratòries / Testing de exploració                           |
 | Evil User Story                       | Historia Maliciosa / Historia de Usuario Malicioso                           | Història Maliciosa / Història d'Usuari Maliciós                        |
 | Extreme programming (XP)              | Programación extrema (XP)                                                    | Programació extrema (XP)                                               |
-| Fast feedback                         | Feedback rápido                                                              | Feedback ràpid                                                         |
+| Fast feedback                         | Retroalimentación rápida                                                     | Retroalimentació ràpida                                                |
 | Feature toggle                        | Conmutador de Funcionalidad / Interruptor de Funcionalidad                   | Commutador de funcionalitat / Interruptor de Funcionalitat             |
 | Feedback                              | Feedback / Retroalimentación                                                 | Feedback / Retroalimentació                                            |
 | Feedforward                           | Feedforward / Prealimentación                                                | Feedforward / Prealimentació                                           |
