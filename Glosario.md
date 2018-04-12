@@ -182,7 +182,7 @@
 | Project charter                       | Acta de Constitución de Proyecto                                             | Acta de constitució de projecte                                        |
 | Proxy Product Owner                   | Proxy Product Owner / Propietario de Producto Proxy                          | Propietari de Producte Proxy                                           |
 | Pull request process                  | Proceso de petición Pull                                                     | Procés de petició Pull                                                 |
-| Pull system                           | Sistema Pull                                                                 | Sistema Pull                                                           |
+| Pull system                           | Sistema Pull / Sistema de Arrastre                                           | Sistema Pull                                                           |
 | Quality Assurance (QA)                | Aseguramiento de la Calidad (QA)                                             | Assegurament de la Qualitat (QA)                                       |
 | Reduce batch size                     | Reducir el tamaño del batch / lote                                           | Reduir la mida del batch / lote                                        |
 | Reduce number of handoffs             | Reducir el numero de traspasos                                               | Reduir el nombre de traspassos                                         |
