@@ -31,7 +31,7 @@
 | Build                                 | Build                                                                        | Build                                                                  |
 | Build-time                            | Build-time                                                                   | Build-time                                                             |
 | Burn-down chart                       | Diagrama de quemado / Gráfico de trabajo pendiente                           | Diagrama de cremat / Gràfic de treball pendent                         |
-| Business value                        | Valor para el negocio                                                        | Valor per el negoci                                                    |
+| Business value                        | Valor para el negocio                                                        | Valor pel negoci                                                    |
 | Canary release pattern                | Patrón de Despliegue con canario                                             | Patró de desplegament amb canari                                       |
 | Canary releasing                      | Despliegue con canario                                                       | Desplegament amb canari                                                |
 | Capacity testing                      | Pruebas de Capacidad                                                         | Proves de capacitat                                                    |
